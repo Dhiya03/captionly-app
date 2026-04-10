@@ -27,3 +27,11 @@ doc/api/
 
 .flutter-plugins
 .flutter-plugins-dependencies
+build/
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+.idea/
+.vscode/
+*.iml
